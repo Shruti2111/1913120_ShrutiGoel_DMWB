@@ -2,6 +2,7 @@
 Apriori Algorithm
 
 input : .csv file containing values seperated by ','
+
 Items
 [A, C, D],
 [B, C, E],
